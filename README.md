@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Teshie
-- 👀 I’m interested in web developmen
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning various good practices of web development
 - 💞️ I’m looking to collaborate on full stack web development projects
 - 📫 How to reach me teshomeaychiluhem@gmail.com
