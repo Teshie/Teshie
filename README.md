@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Teshie
-- 👀 I’m interested in web development
-- 🌱 I develop scalable websites with Javascript and Python
-- 💞️ I’m looking to collaborate on full stack web development projects
-- 📫 How to reach me teshomeaychiluhem@gmail.com
+- 🌱 JS and Python and more
+- 📫 Reach me teshomeaychiluhem@gmail.com
 
 <!---
 Teshie/Teshie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
