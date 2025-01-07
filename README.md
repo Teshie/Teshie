@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Teshie
-- 🌱 JS and Python and more
+- 🌱 Next.js, Django, AWS, Docker and more
 - 📫 Reach me teshomeaychiluhem@gmail.com
 
 <!---
